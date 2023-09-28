@@ -9,5 +9,5 @@
 - <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-Procuro sempre do bom e do melhor, a procura de me evoluir ao maximo
+Procuro sempre do bom e do melhor, conseguindo evoluir ao maximo
 
