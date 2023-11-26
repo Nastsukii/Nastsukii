@@ -19,5 +19,5 @@ Aqui estão alguns dos projetos em que trabalhei:
 ## Contato
 Você pode me encontrar nas seguintes plataformas:
 
-- LinkedIn: <a>https://www.linkedin.com/in/luiz-antonio-comiran-bueno-a2ab48269/</a>
+- LinkedIn: <a>https://www.linkedin.com/in/luiz-antonio-comiran-bueno/</a>
 - Email: lacb.lzn.luiz@gmail.com
