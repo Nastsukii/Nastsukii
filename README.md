@@ -1,13 +1,23 @@
-### Hi there 👋
+# Olá, eu sou Luiz Antonio 👋
 
- Me chamo Luiz Antonio, tenho 17 anos, um garoto sonhador.
+## Sobre Mim
+Eu sou um programador que trabalha com HTML, CSS e JavaScript. Estou sempre aprendendo e buscando aprimorar minhas habilidades.
 
-  Faço projetos fron-end, como freelancer, utilizando as linguagens:
-<br>
-<br>
-- <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-- <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+## Habilidades
+<p>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="25" /> 
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/JavaScript-239120?style=for-the-badge&logo=javascript&logoColor=white" height="25" />
+</p>
 
-Procuro sempre do bom e do melhor, conseguindo evoluir ao maximo
+## Projetos
+Aqui estão alguns dos projetos em que trabalhei:
 
+1. Currency converter(em meu perfil)
+2. Dev-Draw(em meu perfil)
+
+## Contato
+Você pode me encontrar nas seguintes plataformas:
+
+- LinkedIn: <a>https://www.linkedin.com/in/luiz-antonio-comiran-bueno-a2ab48269/</a>
+- Email: lacb.lzn.luiz@gmail.com
