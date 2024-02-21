@@ -1,6 +1,6 @@
 # Luiz Antonio 👋
 
-<img src="https://camo.githubusercontent.com/0d2bd7afc7eddbaa03a4e286746b0285f2533f0755d6714bd00d8b600a33e2ac/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31362f38392f35622f31363839356232333162366461353035653265346163656630326133633166652e676966" />
+<img src="https://camo.githubusercontent.com/fd24666d481d141131b13ead828b97d337f8cfbfa0034c93a95d9c8375209c83/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36382f61652f62662f36386165626634633731626431643630393066383732333732373262303165352e676966" height="600px" width="1000px"/>
 
 ## Dados 
 Olá caro player, me chamo Luiz Antonio pods me chamar apenas de Luiz, meu player foi criado no dia 03 de março de 2006, ou seja, 17 anos de idade, como pode-me ver, gosto de jogos, e por esse motivo eu fui para a área da programação, uma espaço onde se mexe com computadores.💻
