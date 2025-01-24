@@ -3,11 +3,11 @@
 <img src="https://camo.githubusercontent.com/fd24666d481d141131b13ead828b97d337f8cfbfa0034c93a95d9c8375209c83/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36382f61652f62662f36386165626634633731626431643630393066383732333732373262303165352e676966" height="600px" width="1000px"/>
 
 ## Dados 
-Olá caro player, me chamo Luiz Antonio pode me chamar apenas de Luiz, meu player foi criado no dia 03 de março de 2006, ou seja, 18 anos de idade, como pode-me ver, gosto de jogos, e por esse motivo eu fui para a área da programação, uma espaço onde se mexe com computadores.💻
-Apesar de este ser um dos meus motivos de trabalhar com programação, tenho um objetivo em mente com isto, quero criar tudo que eu quiser.🌎
+Olá, me chamo Luiz Antonio pode me chamar apenas de Luiz, sou do dia 03 de março de 2006, ou seja, 18 anos de idade, como pode-me ver, gosto de jogos, e por esse motivo eu fui para a área da programação, uma espaço onde a imaginação é o limite.💻
+Um dos meus motivos de trabalhar com programação, tenho um objetivo em mente com isto, quero criar tudo que eu quiser.🌎
 E com essa vontade de criação, junto das tecnologias que conheço, meu objetivo será cumprido logo em breve.
 
-## Habilidades desbloqueadas 🔓
+## Habilidades 🔓
 
   ### **Front-End**
   
@@ -26,13 +26,13 @@ E com essa vontade de criação, junto das tecnologias que conheço, meu objetiv
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="25"/>
 
-## Missões(Projetos)
+## Projetos
  Todas as minhas missões completadas estão em meu repositórios, encontradas em meu perfil. Apesar de não adicionar aqui, tenho alguns favoritos, entre eles estão:
 
-1. >Pokédex || Uma missão feita com um intuito apenas, o aprendizado.
+1. >Pokédex || Um projeto feito com um intuito apenas, o aprendizado.
 Utilizando Html, Css, Javascript e consumo de APIs, consegui entender muitas coisas, e aprender também, aprendi a consumir uma API de pokémon conseguindo informações dos pokémons procurados.
 
-2. >Order-list-burguer || Está missão foi realizada em prol de um conhecimento maior, já que com ReactJs foi possível consumir uma API criada por mim mesmo na parte de back-end com Node.js, e na parte front-end utilizei de Styled-components, react hooks, rota e axios. Nesta missão tinha o objetivo de criar uma página onde era possível criar e apagar pedidos feito pelos clientes, podendo ver os pedidos quando quisesse.eu
+2. >Order-list-burguer || Este projeto foi realizada em prol de um conhecimento maior, já que com ReactJs foi possível consumir uma API criada por mim mesmo na parte de back-end com Node.js, e na parte front-end utilizei de Styled-components, react hooks, rota e axios. Nesta missão tinha o objetivo de criar uma página onde era possível criar e apagar pedidos feito pelos clientes, podendo ver os pedidos quando quisesse.eu
 
 ## Contato
 Você pode me encontrar nas seguintes plataformas:
